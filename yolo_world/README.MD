@@ -1,1 +1,1 @@
-### Yolo-world model directory
+- Yolo-world model directory
