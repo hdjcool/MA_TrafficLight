@@ -1,0 +1,13 @@
+# environment.yml 예시
+name: traffic-signal-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pygobject   # playsound 성능 개선 권장 라이브러리 (Linux 등에서 GObject 기반)
+  - pip:
+    - streamlit==1.25.0
+    - gTTS==2.5.4
+    - playsound==1.2.2
