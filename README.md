@@ -1,6 +1,6 @@
-# MA_TrafficLight
-- MINI AIFFELTHON repo
-
+# MA_TrafficLight 팀
+---
+## AI 기반 실시간 교통신호 제어 시스템
 ## Member
 |팀장|팀원|팀원|팀원|  
 |:----:|:---:|:-----:|:---:|  
