@@ -1,0 +1,5 @@
+Flask[async]
+ultralytics
+gTTS
+playsound=1.2.2
+asyncio
