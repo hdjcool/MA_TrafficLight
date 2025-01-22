@@ -25,7 +25,7 @@ https://docs.ultralytics.com/models/yolo11/
 ![image](https://github.com/user-attachments/assets/a5daea09-07fa-4d11-b4d5-3435618cb4c3)
 
 <p align="left">
-  <img src="finetuning/emergency_vehicles.gif" width="300" />
-  <img src="finetuning/yolo11_coco.gif" width="300" />
+  <img src="finetuning/emergency_vehicles.gif" width="400" />
+  <img src="finetuning/yolo11_coco.gif" width="400" />
 </p>
 - 원본 영상 출처 : https://youtu.be/ZemOh-p0xcY?si=v_F1Ae0oZLZ--uJB
