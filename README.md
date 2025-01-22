@@ -20,7 +20,7 @@ https://docs.google.com/presentation/d/1b5b-R2NkkRoJycecsCpsnOj5qSziAtTSqSFhbZ3y
 https://docs.ultralytics.com/models/yolo11/
 ![image](https://github.com/user-attachments/assets/a75db245-7071-4c2b-930c-15c4427db2b5)
 
-## sevice flow
+## architecture
 ![image](https://github.com/user-attachments/assets/f8c29b92-b506-4b28-8c41-154b041142a0)
 
 ## Demo 릴리즈
