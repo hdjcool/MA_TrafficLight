@@ -5,3 +5,5 @@
 - flask 비동기버전을 사용했습니다.(Flask[async])
 - playsound의 경우 1.2.2버전이 아닐경우 오류가 발생할 우려가 있습니다.
 - 일반적인 방법으로 실행하시면 됩니다. localhost:5000에서 웹을 확인할 수 있습니다.
+
+![image](https://github.com/user-attachments/assets/d8e16451-bb4a-41a9-a4b3-213182a5fddb)
