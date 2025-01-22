@@ -1,5 +1,6 @@
 ## fine-tuning directory
-## #emergency vs non-emergency 결과 비교
+---
+### emergency vs non-emergency 결과 비교
 - labels
 ![val_batch1_labels](https://github.com/user-attachments/assets/91562e5b-ef3b-496a-9ee7-f05c7e7e4c08)
 - pred
