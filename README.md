@@ -23,12 +23,13 @@ https://docs.ultralytics.com/models/yolo11/
 ## architecture
 ![image](https://github.com/user-attachments/assets/f8c29b92-b506-4b28-8c41-154b041142a0)
 
-## Demo 릴리즈
-- demo directory 참조  
-![image](https://github.com/user-attachments/assets/a5daea09-07fa-4d11-b4d5-3435618cb4c3)
-
+## 탐지 결과
 <p align="left">
   <img src="finetuning/emergency_vehicles.gif" width="400" />
   <img src="finetuning/yolo11_coco.gif" width="400" />
 </p>
 - 원본 영상 출처 : https://youtu.be/ZemOh-p0xcY?si=v_F1Ae0oZLZ--uJB
+
+## Demo 릴리즈
+- demo directory 참조  
+![image](https://github.com/user-attachments/assets/a5daea09-07fa-4d11-b4d5-3435618cb4c3)
