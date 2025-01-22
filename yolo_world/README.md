@@ -1,4 +1,10 @@
 ### Yolo-world model directory
+YOLO-World supports a "prompt-then-detect" strategy, which utilizes an offline vocabulary to enhance efficiency.  
+
+![image](https://github.com/user-attachments/assets/e1cc8fbe-e56d-4a8f-8d52-168c207a564f)  
+![image](https://github.com/user-attachments/assets/3fc92088-97f1-48ba-99d7-0f01b4f10a5f)  
+https://docs.ultralytics.com/models/yolo-world/
+---
 
 - Yolo-world 모델 사용시 fine-tuning 없이 아래 와 같이 단어 설정 하면 fire truck 탐지 됨
 ```
