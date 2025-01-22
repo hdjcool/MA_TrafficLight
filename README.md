@@ -24,4 +24,4 @@ https://docs.ultralytics.com/models/yolo11/
 - demo directory 참조  
 ![image](https://github.com/user-attachments/assets/a5daea09-07fa-4d11-b4d5-3435618cb4c3)
 ![Alt text](finetuning/emergency_vehicles.gif)  
-원본 영상 : https://youtu.be/ZemOh-p0xcY?si=v_F1Ae0oZLZ--uJB
+원본 영상 출처 : https://youtu.be/ZemOh-p0xcY?si=v_F1Ae0oZLZ--uJB
