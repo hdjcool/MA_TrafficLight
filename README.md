@@ -21,6 +21,6 @@ https://docs.ultralytics.com/models/yolo11/
 ![image](https://github.com/user-attachments/assets/a75db245-7071-4c2b-930c-15c4427db2b5)
 
 ## Demo 릴리즈
-- Demo directory 참조  
+- demo directory 참조  
 ![image](https://github.com/user-attachments/assets/a5daea09-07fa-4d11-b4d5-3435618cb4c3)
 
