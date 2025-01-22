@@ -23,4 +23,4 @@ https://docs.ultralytics.com/models/yolo11/
 ## Demo 릴리즈
 - demo directory 참조  
 ![image](https://github.com/user-attachments/assets/a5daea09-07fa-4d11-b4d5-3435618cb4c3)
-
+![Alt text](finetuning/emergency_vehicles.gif)
