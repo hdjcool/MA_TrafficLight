@@ -1,4 +1,5 @@
-# MA_TrafficLight 팀
+# MA_TrafficLight
+- 아이펠 리서치 10기 미니아이펠톤 repo 
 ---
 ## AI 기반 실시간 교통신호 제어 시스템
 ## Member
@@ -15,6 +16,11 @@
 # 발표 자료 링크
 https://docs.google.com/presentation/d/1b5b-R2NkkRoJycecsCpsnOj5qSziAtTSqSFhbZ3yP_0/edit#slide=id.g327d22c2dbb_0_71
 
+# 사용 모델
+https://docs.ultralytics.com/models/yolo11/
+![image](https://github.com/user-attachments/assets/a75db245-7071-4c2b-930c-15c4427db2b5)
+
 ## Demo 릴리즈
 - Demo directory 참조  
 ![image](https://github.com/user-attachments/assets/a5daea09-07fa-4d11-b4d5-3435618cb4c3)
+
