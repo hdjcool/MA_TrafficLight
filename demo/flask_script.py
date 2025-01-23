@@ -56,8 +56,6 @@ async def change_traffic_sign(model, yolo_model):
     """ 차량 통행량 기반 보행자 신호 조정 및 응급차량 감지 """
     global traffic_signal, pedestrian_signal, scenario_num
 
-    is_emergency = 0
-
     if scenario_num == 1:
         image_path1 = image_path2 = "images/low_traffic.png"
     elif scenario_num == 2:
@@ -74,7 +72,6 @@ async def change_traffic_sign(model, yolo_model):
     emergency_detected = await detect_emergency_vehicle(model, image_path1)
     if emergency_detected:
         traffic_time = MAX_TRAFFIC_TIME
-        is_emergency = 1
         app.config['is_emergency'] = " 응급 차량 접근 중"
         app.config['num_vehicles'] = 0
         await speak(f"응급차량이 접근중. {traffic_time}초 뒤에 신호가 바뀝니다.")
@@ -106,7 +103,6 @@ async def change_traffic_sign(model, yolo_model):
 
     # 보행자 신호가 녹색으로 바뀐 시점에서 응급차량 체크
     if await detect_emergency_vehicle(model, image_path2):
-        is_emergency = 1
         app.config['is_emergency'] = " 응급 차량 접근중"
         await speak("응급 차량 접근 중. 주의하여 도로를 건너가십시오.")
 
